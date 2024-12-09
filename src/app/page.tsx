@@ -11,7 +11,7 @@ import product4Image from "../../public/image 4.png";
 import product6Image from "../../public/image 6.png";
 import product7Image from "../../public/image 7.png";
 import product8Image from "../../public/image 8.png";
-import * as React from "react";
+import React from "react";
 
 function home() {
   return (

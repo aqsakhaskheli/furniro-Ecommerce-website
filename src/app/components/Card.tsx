@@ -1,5 +1,5 @@
 import { StaticImageData } from "next/image";
-import * as React from "react";
+import React from "react";
 import Image from "next/image";
 import { GiShare } from "react-icons/gi";
 import { HiArrowsRightLeft } from "react-icons/hi2";

@@ -1,5 +1,5 @@
 import { StaticImageData } from "next/image";
-import * as React from "react";
+import React from "react";
 import Image from "next/image";
 import { CgProfile } from "react-icons/cg";
 import { BsCalendarDateFill } from "react-icons/bs";

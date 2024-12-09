@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import Image from "next/image";
 import aboutHeroImage from "../../../public/aboutImage.png";
 import cartImage from "../../../public/image 6.png";

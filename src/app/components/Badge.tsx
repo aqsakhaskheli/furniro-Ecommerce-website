@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import Image from "next/image";
 import trophee from "../../public/trophy 1.png";
 import guarantee from "../../public/guarantee.png";

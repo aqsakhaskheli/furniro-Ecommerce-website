@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import aboutHeroImage from "../../../public/aboutImage.png";
 import { IoIosArrowForward } from "react-icons/io";
 import Image from "next/image";
