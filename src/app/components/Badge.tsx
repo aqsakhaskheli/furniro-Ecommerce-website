@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
-import trophee from "../../public/trophy 1.png";
-import guarantee from "../../public/guarantee.png";
-import shipping from "../../public/shipping.png";
-import help from "../../public/customer-support.png";
+import trophee from "../../../public/trophy1.png";
+import guarantee from "../../../public/guarantee.png";
+import shipping from "../../../public/shipping.png";
+import help from "../../../public/customer-support.png";
 
 function Badge() {
   return (
